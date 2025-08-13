@@ -4,7 +4,7 @@ import './App.css';
 npm install @supabase/supabase-js
 
 
-const API_URL = 'http://localhost:8000';
+const API_URL = 'https://your-actual-render-url.onrender.com';
 
 interface Bot {
   id: string;
